@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 126,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Trova una posizione comoda, o sdraiati se ti sembra meglio.",
+      "file": "c001.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 2,
+      "text": "Lascia che le mani riposino.",
+      "file": "c002.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 3,
+      "text": "Rilassa gli occhi, o chiudili.",
+      "file": "c003.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 4,
+      "text": "Fai un respiro lento e profondo.",
+      "file": "c004.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 5,
+      "text": "E un respiro più lungo in uscita.",
+      "file": "c005.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 6,
+      "text": "Scegli un punto di riferimento. Il respiro alle narici, o l'espansione dell'addome.",
+      "file": "c006.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 7,
+      "text": "Mantieni l'attenzione lì.",
+      "file": "c007.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 8,
+      "text": "[pausa:23]",
+      "file": "c008.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 9,
+      "text": "Quando la mente divaga, nota dove è andata.",
+      "file": "c009.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 10,
+      "text": "Poi torna indietro. Gentilmente. Con chiarezza.",
+      "file": "c010.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 11,
+      "text": "[pausa:29]",
+      "file": "c011.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 12,
+      "text": "Il ritorno è l'allenamento.",
+      "file": "c012.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 13,
+      "text": "Inhala. Resta.",
+      "file": "c013.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 14,
+      "text": "Esala. Resta.",
+      "file": "c014.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 15,
+      "text": "[pausa:34]",
+      "file": "c015.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 16,
+      "text": "Se ti aiuta, conta i respiri fino a cinque, poi ricomincia.",
+      "file": "c016.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 17,
+      "text": "Uno.",
+      "file": "c017.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 18,
+      "text": "[pausa:17]",
+      "file": "c018.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 19,
+      "text": "Due.",
+      "file": "c019.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 20,
+      "text": "[pausa:17]",
+      "file": "c020.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 21,
+      "text": "Tre.",
+      "file": "c021.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 22,
+      "text": "[pausa:17]",
+      "file": "c022.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 23,
+      "text": "Quattro.",
+      "file": "c023.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 24,
+      "text": "[pausa:17]",
+      "file": "c024.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 25,
+      "text": "Cinque.",
+      "file": "c025.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 26,
+      "text": "[pausa:23]",
+      "file": "c026.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 27,
+      "text": "Lascia andare il conto.",
+      "file": "c027.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 28,
+      "text": "Rimani in attenzione chiara e aperta per un momento.",
+      "file": "c028.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 29,
+      "text": "[pausa:34]",
+      "file": "c029.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 30,
+      "text": "Fai un altro respiro facile.",
+      "file": "c030.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 31,
+      "text": "Muovi le dita.",
+      "file": "c031.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 32,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c032.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 33,
+      "text": "Porta con te un po' di questo.",
+      "file": "c033.ogg",
+      "durationSec": 3.24
+    }
+  ]
+}

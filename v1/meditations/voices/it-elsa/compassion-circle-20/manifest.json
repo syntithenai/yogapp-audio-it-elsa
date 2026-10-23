@@ -1,0 +1,394 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 243,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Prenditi il tempo per arrivare.",
+      "file": "c001.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 2,
+      "text": "Siediti o sdraiati con supporto.",
+      "file": "c002.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 3,
+      "text": "Chiudi gli occhi se ti sembra sicuro.",
+      "file": "c003.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 4,
+      "text": "Senti il contatto con il suolo.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Respira lentamente dentro.",
+      "file": "c005.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 6,
+      "text": "Respira più a lungo fuori.",
+      "file": "c006.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 7,
+      "text": "[pausa:27]",
+      "file": "c007.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 8,
+      "text": "Ancora.",
+      "file": "c008.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 9,
+      "text": "[pausa:27]",
+      "file": "c009.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 10,
+      "text": "Lascia che le spalle si abbassino.",
+      "file": "c010.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 11,
+      "text": "Lascia che l'addome si rilassi.",
+      "file": "c011.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 12,
+      "text": "[pausa:34]",
+      "file": "c012.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 13,
+      "text": "Offriremo gentilezza in un cerchio sempre più ampio.",
+      "file": "c013.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 14,
+      "text": "Le frasi sono inviti, non comandi.",
+      "file": "c014.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 15,
+      "text": "[pausa:34]",
+      "file": "c015.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 16,
+      "text": "Verso te stesso.",
+      "file": "c016.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 17,
+      "text": "Possano io essere al sicuro.",
+      "file": "c017.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 18,
+      "text": "[pausa:27]",
+      "file": "c018.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 19,
+      "text": "Possano io stare bene.",
+      "file": "c019.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 20,
+      "text": "[pausa:27]",
+      "file": "c020.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 21,
+      "text": "Possano io vivere con facilità.",
+      "file": "c021.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 22,
+      "text": "[pausa:41]",
+      "file": "c022.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 23,
+      "text": "Ancora, lentamente.",
+      "file": "c023.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 24,
+      "text": "Possano io essere al sicuro.",
+      "file": "c024.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 25,
+      "text": "Possano io stare bene.",
+      "file": "c025.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 26,
+      "text": "Possano io vivere con facilità.",
+      "file": "c026.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 27,
+      "text": "[pausa:69]",
+      "file": "c027.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 28,
+      "text": "Porta alla mente un amico o qualcuno a cui è facile provare affetto.",
+      "file": "c028.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 29,
+      "text": "Possano tu essere al sicuro.",
+      "file": "c029.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 30,
+      "text": "[pausa:27]",
+      "file": "c030.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 31,
+      "text": "Possano tu stare bene.",
+      "file": "c031.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 32,
+      "text": "[pausa:27]",
+      "file": "c032.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 33,
+      "text": "Possano tu vivere con facilità.",
+      "file": "c033.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 34,
+      "text": "[pausa:69]",
+      "file": "c034.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 35,
+      "text": "Porta alla mente una persona neutrale. Qualcuno che conosci appena.",
+      "file": "c035.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 36,
+      "text": "Siate al sicuro.",
+      "file": "c036.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 37,
+      "text": "Siate bene.",
+      "file": "c037.ogg",
+      "durationSec": 1.92
+    },
+    {
+      "index": 38,
+      "text": "Vivete con facilità.",
+      "file": "c038.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 39,
+      "text": "[pausa:69]",
+      "file": "c039.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 40,
+      "text": "Se vi sentite in grado, includete qualcuno difficile, leggermente.",
+      "file": "c040.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 41,
+      "text": "Oppure tornate a voi stessi se oggi è più saggio.",
+      "file": "c041.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 42,
+      "text": "Siate liberi dal soffrire.",
+      "file": "c042.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 43,
+      "text": "[pausa:55]",
+      "file": "c043.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 44,
+      "text": "Allargatevi a tutte le creature, vicine e lontane.",
+      "file": "c044.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 45,
+      "text": "Siano tutti gli esseri al sicuro.",
+      "file": "c045.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 46,
+      "text": "[pausa:34]",
+      "file": "c046.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 47,
+      "text": "Siano tutti gli esseri bene.",
+      "file": "c047.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 48,
+      "text": "[pausa:34]",
+      "file": "c048.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 49,
+      "text": "Siano tutte le creature a vivere con facilità.",
+      "file": "c049.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 50,
+      "text": "[pausa:82]",
+      "file": "c050.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 51,
+      "text": "Tornate al vostro corpo e respiro.",
+      "file": "c051.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 52,
+      "text": "Rimanete nell’eco delle parole.",
+      "file": "c052.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 53,
+      "text": "[pausa:150]",
+      "file": "c053.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 54,
+      "text": "Niente da forzare. La morbidezza è sufficiente.",
+      "file": "c054.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 55,
+      "text": "[pausa:137]",
+      "file": "c055.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 56,
+      "text": "[pausa:41]",
+      "file": "c056.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 57,
+      "text": "Iniziate a respirare più profondamente.",
+      "file": "c057.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 58,
+      "text": "Rimanete qui.",
+      "file": "c058.ogg",
+      "durationSec": 2.064
+    },
+    {
+      "index": 59,
+      "text": "[pausa:26]",
+      "file": "c059.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 60,
+      "text": "Sentite di nuovo la stanza.",
+      "file": "c060.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 61,
+      "text": "Muovi le dita delle mani e dei piedi.",
+      "file": "c061.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 62,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c062.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 63,
+      "text": "Muoviti lentamente verso ciò che segue.",
+      "file": "c063.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

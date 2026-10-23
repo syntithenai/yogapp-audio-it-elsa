@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 272,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Questa pratica utilizza tensione e rilascio delicati.",
+      "file": "c001.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 2,
+      "text": "Stai sdraiato se puoi, o siediti con supporto.",
+      "file": "c002.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 3,
+      "text": "Chiudi gli occhi se ti sembra sicuro.",
+      "file": "c003.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 4,
+      "text": "Niente da forzare. Resta in una zona confortevole.",
+      "file": "c004.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 5,
+      "text": "Fai un respiro lento dentro.",
+      "file": "c005.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 6,
+      "text": "E un respiro più lungo fuori.",
+      "file": "c006.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 7,
+      "text": "[pausa:19]",
+      "file": "c007.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 8,
+      "text": "Porta l'attenzione su entrambi i piedi.",
+      "file": "c008.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 9,
+      "text": "Piega le dita dei piedi e stringi i piedi.",
+      "file": "c009.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 10,
+      "text": "Tieni.",
+      "file": "c010.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 11,
+      "text": "[pausa:19]",
+      "file": "c011.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 12,
+      "text": "Rilascia.",
+      "file": "c012.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 13,
+      "text": "Senti la differenza.",
+      "file": "c013.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 14,
+      "text": "[pausa:21]",
+      "file": "c014.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 15,
+      "text": "Stringi i polpacci.",
+      "file": "c015.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 16,
+      "text": "Tieni.",
+      "file": "c016.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 17,
+      "text": "[pausa:19]",
+      "file": "c017.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 18,
+      "text": "Rilascia.",
+      "file": "c018.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 19,
+      "text": "Lascia che le gambe inferiori diventino pesanti.",
+      "file": "c019.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 20,
+      "text": "[pausa:21]",
+      "file": "c020.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 21,
+      "text": "Tensiona le cosce.",
+      "file": "c021.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 22,
+      "text": "Tieni.",
+      "file": "c022.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 23,
+      "text": "[pausa:19]",
+      "file": "c023.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 24,
+      "text": "Rilascia.",
+      "file": "c024.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 25,
+      "text": "Gambe morbide. Anche i fianchi.",
+      "file": "c025.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 26,
+      "text": "[pausa:21]",
+      "file": "c026.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 27,
+      "text": "Porta dolcemente l'addome verso l'interno.",
+      "file": "c027.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 28,
+      "text": "Tieni senza sforzo.",
+      "file": "c028.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 29,
+      "text": "[pausa:19]",
+      "file": "c029.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 30,
+      "text": "Rilascia.",
+      "file": "c030.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 31,
+      "text": "Lascia che l'addome si muova liberamente con il respiro.",
+      "file": "c031.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 32,
+      "text": "[pausa:21]",
+      "file": "c032.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 33,
+      "text": "Forma pugni morbidi. Tensiona le mani e gli avambracci.",
+      "file": "c033.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 34,
+      "text": "Tieni.",
+      "file": "c034.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 35,
+      "text": "[pausa:19]",
+      "file": "c035.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 36,
+      "text": "Rilascia.",
+      "file": "c036.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 37,
+      "text": "Dita aperte. Braccia pesanti.",
+      "file": "c037.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 38,
+      "text": "[pausa:21]",
+      "file": "c038.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 39,
+      "text": "Alza le spalle verso le orecchie.",
+      "file": "c039.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 40,
+      "text": "Tieni.",
+      "file": "c040.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 41,
+      "text": "[pausa:19]",
+      "file": "c041.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 42,
+      "text": "Lasciale cadere.",
+      "file": "c042.ogg",
+      "durationSec": 2.376
+    },
+    {
+      "index": 43,
+      "text": "Senti lo spazio attraverso la parte superiore della schiena.",
+      "file": "c043.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 44,
+      "text": "[pausa:21]",
+      "file": "c044.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 45,
+      "text": "Stringi delicatamente il viso. Occhi, fronte, mascella.",
+      "file": "c045.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 46,
+      "text": "Tieni.",
+      "file": "c046.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 47,
+      "text": "[pausa:19]",
+      "file": "c047.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 48,
+      "text": "Rilascia.",
+      "file": "c048.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 49,
+      "text": "Fronte liscia. Mascella rilassata. Lingua in posizione naturale.",
+      "file": "c049.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 50,
+      "text": "[pausa:23]",
+      "file": "c050.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 51,
+      "text": "Tensiona leggermente tutto il corpo, come un unico blocco.",
+      "file": "c051.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 52,
+      "text": "Tieni per un respiro.",
+      "file": "c052.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 53,
+      "text": "[pausa:35]",
+      "file": "c053.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 54,
+      "text": "Lascia andare tutto.",
+      "file": "c054.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 55,
+      "text": "[pausa:8]",
+      "file": "c055.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 56,
+      "text": "Ancora una volta, una leggera contrazione di tutto il corpo.",
+      "file": "c056.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 57,
+      "text": "Tieni brevemente.",
+      "file": "c057.ogg",
+      "durationSec": 2.328
+    },
+    {
+      "index": 58,
+      "text": "[pausa:5]",
+      "file": "c058.ogg",
+      "durationSec": 2.928
+    },
+    {
+      "index": 59,
+      "text": "E rilascia completamente.",
+      "file": "c059.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 60,
+      "text": "Ora più pesante. Ora più morbido.",
+      "file": "c060.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 61,
+      "text": "Senti il corpo stabilizzarsi sulla superficie sotto di te.",
+      "file": "c061.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 62,
+      "text": "[pausa:39]",
+      "file": "c062.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 63,
+      "text": "Riposa qui.",
+      "file": "c063.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 64,
+      "text": "Respiro tranquillo. Corpo morbido.",
+      "file": "c064.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 65,
+      "text": "Se i pensieri tornano, va bene.",
+      "file": "c065.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 66,
+      "text": "Torna alla sensazione di rilascio.",
+      "file": "c066.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 67,
+      "text": "[pausa:50]",
+      "file": "c067.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 68,
+      "text": "Rimani morbido.",
+      "file": "c068.ogg",
+      "durationSec": 2.28
+    },
+    {
+      "index": 69,
+      "text": "[pausa:40]",
+      "file": "c069.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 70,
+      "text": "Muovi le dita delle mani e dei piedi.",
+      "file": "c070.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 71,
+      "text": "Fai un altro respiro facile.",
+      "file": "c071.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 72,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c072.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 73,
+      "text": "Porta con te questa morbidezza.",
+      "file": "c073.ogg",
+      "durationSec": 3.6
+    }
+  ]
+}

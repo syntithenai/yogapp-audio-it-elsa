@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "it-elsa.zip", "bytes": 61384346, "sha256": "c38b674928eb9940453d420690a8cfac67a61d1a3658853c4e5c21b59954cffa"}
+  ]
+}

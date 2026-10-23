@@ -1,0 +1,250 @@
+{
+  "id": "heart-space-10",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 156,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Prenditi il tempo per arrivare.",
+      "file": "c001.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 2,
+      "text": "Siediti o sdraiati con supporto.",
+      "file": "c002.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 3,
+      "text": "Chiudi gli occhi se ti sembra sicuro.",
+      "file": "c003.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 4,
+      "text": "Senti il contatto con il suolo.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Respira lentamente dentro.",
+      "file": "c005.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 6,
+      "text": "Esala più a lungo.",
+      "file": "c006.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 7,
+      "text": "[pausa:25]",
+      "file": "c007.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 8,
+      "text": "Ancora.",
+      "file": "c008.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 9,
+      "text": "[pausa:25]",
+      "file": "c009.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 10,
+      "text": "Lascia che le spalle si abbassino.",
+      "file": "c010.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 11,
+      "text": "Lascia che la pancia si rilassi.",
+      "file": "c011.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 12,
+      "text": "[pausa:31]",
+      "file": "c012.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 13,
+      "text": "Porta l'attenzione al centro del petto.",
+      "file": "c013.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 14,
+      "text": "Non forzare la sensazione. Limitati a localizzare lo spazio.",
+      "file": "c014.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 15,
+      "text": "[pausa:31]",
+      "file": "c015.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 16,
+      "text": "Respira come se l'inspirazione entrasse attraverso il cuore.",
+      "file": "c016.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 17,
+      "text": "Come se l'espirazione ammorbidisse il cuore dall'interno.",
+      "file": "c017.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 18,
+      "text": "[pausa:37]",
+      "file": "c018.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 19,
+      "text": "Se emozioni emergono, lasciale muoversi come il tempo.",
+      "file": "c019.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 20,
+      "text": "[pausa:37]",
+      "file": "c020.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 21,
+      "text": "Silenziosamente: possa il mio cuore essere in pace.",
+      "file": "c021.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 22,
+      "text": "[pausa:31]",
+      "file": "c022.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 23,
+      "text": "Possano io essere paziente con il mio ritmo.",
+      "file": "c023.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 24,
+      "text": "[pausa:31]",
+      "file": "c024.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 25,
+      "text": "Porta alla mente qualcuno per cui è facile provare affetto.",
+      "file": "c025.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 26,
+      "text": "Desidera loro pace.",
+      "file": "c026.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 27,
+      "text": "Possiate essere in pace.",
+      "file": "c027.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 28,
+      "text": "[pausa:37]",
+      "file": "c028.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 29,
+      "text": "Torna al tuo spazio del cuore.",
+      "file": "c029.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 30,
+      "text": "Caldo. Spazioso. Umano.",
+      "file": "c030.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 31,
+      "text": "[pausa:75]",
+      "file": "c031.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 32,
+      "text": "Rimani qui.",
+      "file": "c032.ogg",
+      "durationSec": 1.944
+    },
+    {
+      "index": 33,
+      "text": "[pausa:90]",
+      "file": "c033.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 34,
+      "text": "[pausa:37]",
+      "file": "c034.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 35,
+      "text": "Inizia a approfondire il respiro.",
+      "file": "c035.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 36,
+      "text": "Rivivi la stanza.",
+      "file": "c036.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 37,
+      "text": "Muovi le dita delle mani e dei piedi.",
+      "file": "c037.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 38,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c038.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 39,
+      "text": "Muoviti lentamente verso ciò che segue.",
+      "file": "c039.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

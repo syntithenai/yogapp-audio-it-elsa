@@ -1,0 +1,352 @@
+{
+  "id": "garden-dusk-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 287,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Siediti comodamente, o sdraiati se ti senti meglio così.",
+      "file": "c001.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 2,
+      "text": "Lascia che le tue mani riposino.",
+      "file": "c002.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 3,
+      "text": "Permetti ai tuoi occhi di chiudersi, o assottigliare lo sguardo.",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "Notare il peso del tuo corpo che viene tenuto.",
+      "file": "c004.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 5,
+      "text": "Fai un respiro lento attraverso il naso.",
+      "file": "c005.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 6,
+      "text": "E un respiro più lungo e rilassato verso l'esterno.",
+      "file": "c006.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 7,
+      "text": "Ancora. Inalazione morbida.",
+      "file": "c007.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 8,
+      "text": "Esalazione dolce.",
+      "file": "c008.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 9,
+      "text": "Se i pensieri vagano, va bene. Ritorna al respiro.",
+      "file": "c009.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 10,
+      "text": "Immagina un giardino tranquillo circondato da muri all'ora del crepuscolo.",
+      "file": "c010.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 11,
+      "text": "I sentieri di pietra conservano l'ultima calda sensazione della giornata.",
+      "file": "c011.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 12,
+      "text": "Sentire quella dolce calda attraverso le piante dei piedi.",
+      "file": "c012.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 13,
+      "text": "Lavanda e rose del crepuscolo rilasciano un profumo sereno.",
+      "file": "c013.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 14,
+      "text": "Una brezza fresca scivola sul muro e rinfresca il collo.",
+      "file": "c014.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 15,
+      "text": "L'aria è fresca dopo una calda giornata.",
+      "file": "c015.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 16,
+      "text": "Cammini lentamente tra siepi tagliate morbide come respiro.",
+      "file": "c016.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 17,
+      "text": "I tuoi dita sfiorano le foglie ancora che tengono il sole.",
+      "file": "c017.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 18,
+      "text": "Caldo. Liscio. Vivo.",
+      "file": "c018.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 19,
+      "text": "Un banco di legno attende sotto un albero tranquillo.",
+      "file": "c019.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 20,
+      "text": "Ti siedi. Il legno è piacevolmente caldo contro la schiena.",
+      "file": "c020.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 21,
+      "text": "Sopra, il cielo si tinge di lavanda e rosa.",
+      "file": "c021.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 22,
+      "text": "Gli uccelli si posano. Il giardino diventa silenzioso.",
+      "file": "c022.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 23,
+      "text": "Sentire il calore che svanisce gentilmente dalle pietre e dal legno.",
+      "file": "c023.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 24,
+      "text": "Sentire la fresca brezza del crepuscolo sul viso.",
+      "file": "c024.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 25,
+      "text": "Inhala profondamente il profumo e la quiete.",
+      "file": "c025.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 26,
+      "text": "Esala il giorno che hai portato con te.",
+      "file": "c026.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 27,
+      "text": "Una falena attraversa l'ultima luce dorata.",
+      "file": "c027.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 28,
+      "text": "Niente qui è urgente. Tutto è sufficiente.",
+      "file": "c028.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 29,
+      "text": "Riposa in questa pienezza.",
+      "file": "c029.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 30,
+      "text": "Lascia che la pancia si rilassi nell'aria del crepuscolo.",
+      "file": "c030.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 31,
+      "text": "Lascia che il tuo prossimo respiro sia il più silenzioso della giornata.",
+      "file": "c031.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 32,
+      "text": "Fai un lento giro del sentiero prima di terminare.",
+      "file": "c032.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 33,
+      "text": "Pietre calde che si raffreddano sotto i piedi.",
+      "file": "c033.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 34,
+      "text": "I cespugli rilasciano il profumo accumulato durante il giorno.",
+      "file": "c034.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 35,
+      "text": "La brezza ora ha un tocco serale — fresca, quasi dolce.",
+      "file": "c035.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 36,
+      "text": "Ferma ti al cancello senza aprirlo ancora.",
+      "file": "c036.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 37,
+      "text": "Senti come la calma si è installata nelle spalle.",
+      "file": "c037.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 38,
+      "text": "Porta il silenzio del giardino come una piccola lanterna verso l'interno.",
+      "file": "c038.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 39,
+      "text": "Ora riposa solo nel respiro per un po'.",
+      "file": "c039.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 40,
+      "text": "Inhala lentamente.",
+      "file": "c040.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 41,
+      "text": "Esala lentamente.",
+      "file": "c041.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 42,
+      "text": "Inhala.",
+      "file": "c042.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 43,
+      "text": "Esala.",
+      "file": "c043.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 44,
+      "text": "Senti il calore ovunque il corpo sia caldo.",
+      "file": "c044.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 45,
+      "text": "Senti la freschezza ovunque l'aria sia fresca.",
+      "file": "c045.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 46,
+      "text": "Inhala.",
+      "file": "c046.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 47,
+      "text": "Esala.",
+      "file": "c047.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 48,
+      "text": "Nessun posto dove andare. Niente da sistemare.",
+      "file": "c048.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 49,
+      "text": "Inhala.",
+      "file": "c049.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 50,
+      "text": "Esala.",
+      "file": "c050.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 51,
+      "text": "Rimani qui per qualche respiro tranquillo.",
+      "file": "c051.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 52,
+      "text": "Sappi che puoi tornare in questo posto in qualsiasi momento.",
+      "file": "c052.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 53,
+      "text": "Quando sei pronto, approfondisci il respiro.",
+      "file": "c053.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 54,
+      "text": "Muovi le dita delle mani e dei piedi.",
+      "file": "c054.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 55,
+      "text": "Apri gli occhi dolcemente.",
+      "file": "c055.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 56,
+      "text": "Porta con te un po' di questa pace.",
+      "file": "c056.ogg",
+      "durationSec": 3.672
+    }
+  ]
+}

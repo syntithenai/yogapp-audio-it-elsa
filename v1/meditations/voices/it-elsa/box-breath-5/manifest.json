@@ -1,0 +1,238 @@
+{
+  "id": "box-breath-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 130,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Trova una posizione comoda, o sdraiati se ti sembra meglio.",
+      "file": "c001.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 2,
+      "text": "Lascia riposare le mani.",
+      "file": "c002.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 3,
+      "text": "Ammorbidisci gli occhi, o chiudili.",
+      "file": "c003.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 4,
+      "text": "Fai un respiro lento dentro.",
+      "file": "c004.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 5,
+      "text": "E un respiro più lungo fuori.",
+      "file": "c005.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 6,
+      "text": "Respireremo in un semplice quadrato.",
+      "file": "c006.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 7,
+      "text": "Dentro per quattro. Ferma per quattro. Fuori per quattro. Ferma per quattro.",
+      "file": "c007.ogg",
+      "durationSec": 1.56
+    },
+    {
+      "index": 8,
+      "text": "Resta delicato. Mai sforzarti.",
+      "file": "c008.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 9,
+      "text": "[pausa:20]",
+      "file": "c009.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 10,
+      "text": "Inhala. Due. Tre. Quattro.",
+      "file": "c010.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 11,
+      "text": "Ferma. Due. Tre. Quattro.",
+      "file": "c011.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 12,
+      "text": "Esala. Due. Tre. Quattro.",
+      "file": "c012.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 13,
+      "text": "Ferma. Due. Tre. Quattro.",
+      "file": "c013.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 14,
+      "text": "[pausa:20]",
+      "file": "c014.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 15,
+      "text": "Ancora. Inhala.",
+      "file": "c015.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 16,
+      "text": "Trattieni.",
+      "file": "c016.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 17,
+      "text": "Esala.",
+      "file": "c017.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 18,
+      "text": "Trattieni.",
+      "file": "c018.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 19,
+      "text": "[pausa:26]",
+      "file": "c019.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 20,
+      "text": "Continua al tuo ritmo per alcuni cicli.",
+      "file": "c020.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 21,
+      "text": "Se quattro è troppo lungo, usa tre.",
+      "file": "c021.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 22,
+      "text": "[pausa:45]",
+      "file": "c022.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 23,
+      "text": "Un altro ciclo completo.",
+      "file": "c023.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 24,
+      "text": "Inhala.",
+      "file": "c024.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 25,
+      "text": "Trattieni.",
+      "file": "c025.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 26,
+      "text": "Esala.",
+      "file": "c026.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 27,
+      "text": "Trattieni.",
+      "file": "c027.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 28,
+      "text": "[pausa:26]",
+      "file": "c028.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 29,
+      "text": "Ritorna al respiro naturale.",
+      "file": "c029.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 30,
+      "text": "Nota la quiete che segue.",
+      "file": "c030.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 31,
+      "text": "[pausa:33]",
+      "file": "c031.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 32,
+      "text": "Riposa qui.",
+      "file": "c032.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 33,
+      "text": "[pausa:33]",
+      "file": "c033.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 34,
+      "text": "Fai un altro respiro facile.",
+      "file": "c034.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 35,
+      "text": "Muovi le dita.",
+      "file": "c035.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 36,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c036.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 37,
+      "text": "Porta con te un po' di questo.",
+      "file": "c037.ogg",
+      "durationSec": 3.24
+    }
+  ]
+}

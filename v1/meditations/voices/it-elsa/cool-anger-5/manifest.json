@@ -1,0 +1,160 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 87,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Se c'è rabbia o irritazione, sei benvenuto qui.",
+      "file": "c001.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 2,
+      "text": "Non devi farla scomparire.",
+      "file": "c002.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 3,
+      "text": "Dona a essa più spazio.",
+      "file": "c003.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 4,
+      "text": "Sentì i piedi.",
+      "file": "c004.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 5,
+      "text": "[pausa:25]",
+      "file": "c005.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 6,
+      "text": "Inala per quattro.",
+      "file": "c006.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 7,
+      "text": "Espira per sei o otto.",
+      "file": "c007.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 8,
+      "text": "Le espirazioni più lunghe raffreddano il sistema.",
+      "file": "c008.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 9,
+      "text": "[pausa:33]",
+      "file": "c009.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 10,
+      "text": "Ancora.",
+      "file": "c010.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 11,
+      "text": "[pausa:33]",
+      "file": "c011.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 12,
+      "text": "Nomina il calore senza alimentare la storia.",
+      "file": "c012.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 13,
+      "text": "Calore nel petto. Mascella tesa. Mente veloce.",
+      "file": "c013.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 14,
+      "text": "[pausa:41]",
+      "file": "c014.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 15,
+      "text": "Rilassa le mani.",
+      "file": "c015.ogg",
+      "durationSec": 2.304
+    },
+    {
+      "index": 16,
+      "text": "Abbassa le spalle.",
+      "file": "c016.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 17,
+      "text": "[pausa:33]",
+      "file": "c017.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 18,
+      "text": "Puoi rispondere più tardi da un posto più chiaro.",
+      "file": "c018.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 19,
+      "text": "Per ora, respira.",
+      "file": "c019.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 20,
+      "text": "[pausa:45]",
+      "file": "c020.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 21,
+      "text": "Fai un altro respiro facile.",
+      "file": "c021.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 22,
+      "text": "Muovi le dita.",
+      "file": "c022.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 23,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c023.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 24,
+      "text": "Porta con te un po' di questo.",
+      "file": "c024.ogg",
+      "durationSec": 3.24
+    }
+  ]
+}

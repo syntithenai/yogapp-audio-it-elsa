@@ -1,0 +1,316 @@
+{
+  "id": "anxiety-ease-10",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 204,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Prenditi il tempo per arrivare.",
+      "file": "c001.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 2,
+      "text": "Siediti o sdraiati con supporto.",
+      "file": "c002.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 3,
+      "text": "Chiudi gli occhi se ti sembra sicuro.",
+      "file": "c003.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 4,
+      "text": "Senti il contatto con il suolo.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Respira lentamente dentro.",
+      "file": "c005.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 6,
+      "text": "Respira più a lungo fuori.",
+      "file": "c006.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 7,
+      "text": "[pausa:20]",
+      "file": "c007.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 8,
+      "text": "Ancora.",
+      "file": "c008.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 9,
+      "text": "[pausa:20]",
+      "file": "c009.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 10,
+      "text": "Lascia che le spalle si abbassino.",
+      "file": "c010.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 11,
+      "text": "Lascia che l'addome si rilassi.",
+      "file": "c011.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 12,
+      "text": "[pausa:25]",
+      "file": "c012.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 13,
+      "text": "L'ansia potrebbe ancora essere qui. È permesso.",
+      "file": "c013.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 14,
+      "text": "Non la stiamo combattendo. Stiamo facendo amicizia con il corpo.",
+      "file": "c014.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 15,
+      "text": "[pausa:25]",
+      "file": "c015.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 16,
+      "text": "Premi delicatamente i piedi sul pavimento.",
+      "file": "c016.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 17,
+      "text": "Senti il pavimento che spinge indietro.",
+      "file": "c017.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 18,
+      "text": "[pausa:25]",
+      "file": "c018.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 19,
+      "text": "Nomina tre cose che puoi vedere con gli occhi chiusi o con lo sguardo morbido.",
+      "file": "c019.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 20,
+      "text": "Buio. Luce. Forma delle palpebre.",
+      "file": "c020.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 21,
+      "text": "[pausa:25]",
+      "file": "c021.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 22,
+      "text": "Nomina tre sensazioni.",
+      "file": "c022.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 23,
+      "text": "Abbigliamento. Temperatura. Respiro.",
+      "file": "c023.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 24,
+      "text": "[pausa:25]",
+      "file": "c024.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 25,
+      "text": "Inspira per quattro.",
+      "file": "c025.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 26,
+      "text": "Trattieni per due.",
+      "file": "c026.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 27,
+      "text": "Espira per sei.",
+      "file": "c027.ogg",
+      "durationSec": 2.448
+    },
+    {
+      "index": 28,
+      "text": "[pausa:20]",
+      "file": "c028.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 29,
+      "text": "Ancora una volta.",
+      "file": "c029.ogg",
+      "durationSec": 2.472
+    },
+    {
+      "index": 30,
+      "text": "[pausa:25]",
+      "file": "c030.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 31,
+      "text": "Posiziona una mano sul petto o sull'addome.",
+      "file": "c031.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 32,
+      "text": "Senti il movimento sotto la mano.",
+      "file": "c032.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 33,
+      "text": "Dì sottovoce: in questo momento, sto respirando.",
+      "file": "c033.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 34,
+      "text": "[pausa:30]",
+      "file": "c034.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 35,
+      "text": "Se la mente corre avanti, ringraziala per aver cercato di proteggerti.",
+      "file": "c035.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 36,
+      "text": "Poi torna a questo respiro.",
+      "file": "c036.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 37,
+      "text": "[pausa:41]",
+      "file": "c037.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 38,
+      "text": "Esamina il viso. Rilassati.",
+      "file": "c038.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 39,
+      "text": "Esamina le mani. Rilassati.",
+      "file": "c039.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 40,
+      "text": "[pausa:30]",
+      "file": "c040.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 41,
+      "text": "Riposa nel ritmo delle espirazioni più lunghe.",
+      "file": "c041.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 42,
+      "text": "[pausa:76]",
+      "file": "c042.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 43,
+      "text": "Hai dato al sistema nervoso una riva più ampia.",
+      "file": "c043.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 44,
+      "text": "[pausa:41]",
+      "file": "c044.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 45,
+      "text": "[pausa:30]",
+      "file": "c045.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 46,
+      "text": "Inizia a approfondire il respiro.",
+      "file": "c046.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 47,
+      "text": "Rivivi la stanza.",
+      "file": "c047.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 48,
+      "text": "Muovi le dita delle mani e dei piedi.",
+      "file": "c048.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 49,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c049.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 50,
+      "text": "Muoviti lentamente verso ciò che segue.",
+      "file": "c050.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

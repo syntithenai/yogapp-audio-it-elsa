@@ -1,0 +1,148 @@
+{
+  "id": "breath-awareness",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 108,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Rilassati in una posizione stabile.",
+      "file": "c000.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 1,
+      "text": "Colonna vertebrale dritta ma non rigida.",
+      "file": "c001.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 2,
+      "text": "Porta l'attenzione al respiro così come è.",
+      "file": "c002.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 3,
+      "text": "Non cambiarlo ancora. Osserva semplicemente.",
+      "file": "c003.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 4,
+      "text": "Senti la freschezza dell'inspirazione alle narici.",
+      "file": "c004.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 5,
+      "text": "Senti il calore dell'espirazione.",
+      "file": "c005.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 6,
+      "text": "Oppure nota l'ascesa e la discesa dell'addome.",
+      "file": "c006.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 7,
+      "text": "Scegli un punto su cui posare la tua attenzione.",
+      "file": "c007.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 8,
+      "text": "Quando la mente divaga, torna gentilmente.",
+      "file": "c008.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 9,
+      "text": "Nessun giudizio. Torna semplicemente.",
+      "file": "c009.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 10,
+      "text": "Ora, se ti sembra facile, conta i cicli dolcemente.",
+      "file": "c010.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 11,
+      "text": "Inhala. Uno.",
+      "file": "c011.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 12,
+      "text": "Esala. Uno.",
+      "file": "c012.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 13,
+      "text": "Inhala. Due.",
+      "file": "c013.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 14,
+      "text": "Esala. Due.",
+      "file": "c014.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 15,
+      "text": "Continua fino a cinque, poi ricomincia da uno.",
+      "file": "c015.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 16,
+      "text": "Se perdi il conto, ricomincia con gentilezza.",
+      "file": "c016.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 17,
+      "text": "Il ritorno è la pratica.",
+      "file": "c017.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 18,
+      "text": "Lascia che il respiro sia naturale. Senza sforzo.",
+      "file": "c018.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 19,
+      "text": "Ancora qualche ciclo in silenzio.",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "Lascia andare il conto.",
+      "file": "c020.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 21,
+      "text": "Rimani in consapevolezza aperta per un momento.",
+      "file": "c021.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 22,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c022.ogg",
+      "durationSec": 4.488
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 107,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Trova una posizione comoda, o sdraiati se ti sembra meglio.",
+      "file": "c001.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 2,
+      "text": "Lascia riposare le mani.",
+      "file": "c002.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 3,
+      "text": "Rilassa gli occhi, o chiudili.",
+      "file": "c003.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 4,
+      "text": "Fai un respiro lento dentro.",
+      "file": "c004.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 5,
+      "text": "E un respiro più lungo fuori.",
+      "file": "c005.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 6,
+      "text": "Inizia con il respiro per qualche ciclo.",
+      "file": "c006.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 7,
+      "text": "[pausa:28]",
+      "file": "c007.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 8,
+      "text": "Ora allarga. Includi i suoni.",
+      "file": "c008.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 9,
+      "text": "Vicino. Lontano. In mutamento. Costante.",
+      "file": "c009.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 10,
+      "text": "[pausa:28]",
+      "file": "c010.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 11,
+      "text": "Includi le sensazioni nel corpo.",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "Punti di contatto. Temperatura. Polso morbido.",
+      "file": "c012.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 13,
+      "text": "[pausa:28]",
+      "file": "c013.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 14,
+      "text": "Includi lo spazio della stanza.",
+      "file": "c014.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 15,
+      "text": "Consapevolezza come cielo aperto.",
+      "file": "c015.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 16,
+      "text": "[pausa:34]",
+      "file": "c016.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 17,
+      "text": "I pensieri possono apparire come il tempo.",
+      "file": "c017.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 18,
+      "text": "Non c'è bisogno di inseguirli o spingerli via.",
+      "file": "c018.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 19,
+      "text": "Il cielo rimane.",
+      "file": "c019.ogg",
+      "durationSec": 2.424
+    },
+    {
+      "index": 20,
+      "text": "[pausa:45]",
+      "file": "c020.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 21,
+      "text": "Riposa in questo campo aperto.",
+      "file": "c021.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 22,
+      "text": "[pausa:45]",
+      "file": "c022.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 23,
+      "text": "Fai un altro respiro facile.",
+      "file": "c023.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 24,
+      "text": "Muovi le dita.",
+      "file": "c024.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 25,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c025.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 26,
+      "text": "Porta con te un po' di questo.",
+      "file": "c026.ogg",
+      "durationSec": 3.24
+    }
+  ]
+}

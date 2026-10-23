@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 96,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Resta seduto. Questo è per il mezzo del lavoro.",
+      "file": "c001.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 2,
+      "text": "Distogli lo sguardo dallo schermo per un momento.",
+      "file": "c002.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 3,
+      "text": "Guarda più lontano, se puoi.",
+      "file": "c003.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 4,
+      "text": "[pausa:28]",
+      "file": "c004.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 5,
+      "text": "Ruota le spalle in su, indietro e giù.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "Ancora due volte.",
+      "file": "c006.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 7,
+      "text": "[pausa:38]",
+      "file": "c007.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 8,
+      "text": "Apri e chiudi le mani.",
+      "file": "c008.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 9,
+      "text": "Scuotile leggermente.",
+      "file": "c009.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 10,
+      "text": "[pausa:28]",
+      "file": "c010.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 11,
+      "text": "Rilassa la fronte.",
+      "file": "c011.ogg",
+      "durationSec": 2.52
+    },
+    {
+      "index": 12,
+      "text": "Rilassa la mascella. Lascia riposare la lingua.",
+      "file": "c012.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 13,
+      "text": "[pausa:38]",
+      "file": "c013.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 14,
+      "text": "Inhala nei lati delle costole.",
+      "file": "c014.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 15,
+      "text": "Esala e lascia che il petto si rilassi.",
+      "file": "c015.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 16,
+      "text": "[pausa:38]",
+      "file": "c016.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 17,
+      "text": "Batti le palpebre lentamente tre volte.",
+      "file": "c017.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 18,
+      "text": "[pausa:28]",
+      "file": "c018.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 19,
+      "text": "Un altro respiro completo.",
+      "file": "c019.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 20,
+      "text": "Ritorna quando sei pronto, un po' meno teso.",
+      "file": "c020.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 21,
+      "text": "[pausa:28]",
+      "file": "c021.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 22,
+      "text": "Fai un altro respiro facile.",
+      "file": "c022.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 23,
+      "text": "Muovi le dita.",
+      "file": "c023.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 24,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c024.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 25,
+      "text": "Porta la leggerezza nella prossima attività.",
+      "file": "c025.ogg",
+      "durationSec": 4.728
+    }
+  ]
+}

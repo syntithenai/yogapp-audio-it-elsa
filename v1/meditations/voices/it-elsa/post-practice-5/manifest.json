@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 81,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Hai praticato. Ora lascia che il corpo lo accolga.",
+      "file": "c001.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 2,
+      "text": "Stai sdraiato o seduto con facilità.",
+      "file": "c002.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 3,
+      "text": "Chiudi gli occhi.",
+      "file": "c003.ogg",
+      "durationSec": 2.112
+    },
+    {
+      "index": 4,
+      "text": "[pausa:31]",
+      "file": "c004.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 5,
+      "text": "Cerca calore, vibrazione o stanchezza silenziosa.",
+      "file": "c005.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 6,
+      "text": "Nessun giudizio. Basta notare.",
+      "file": "c006.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 7,
+      "text": "[pausa:45]",
+      "file": "c007.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 8,
+      "text": "Esala a lungo.",
+      "file": "c008.ogg",
+      "durationSec": 2.208
+    },
+    {
+      "index": 9,
+      "text": "Ancora.",
+      "file": "c009.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 10,
+      "text": "[pausa:38]",
+      "file": "c010.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 11,
+      "text": "Ringrazia il corpo per essersi presentato.",
+      "file": "c011.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 12,
+      "text": "[pausa:31]",
+      "file": "c012.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 13,
+      "text": "Lascia che lo sforzo si disperda sul pavimento.",
+      "file": "c013.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 14,
+      "text": "[pausa:45]",
+      "file": "c014.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 15,
+      "text": "Un respiro chiaro in.",
+      "file": "c015.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 16,
+      "text": "Un respiro completo fuori.",
+      "file": "c016.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 17,
+      "text": "[pausa:38]",
+      "file": "c017.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 18,
+      "text": "Fai un altro respiro facile.",
+      "file": "c018.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 19,
+      "text": "Muovi le dita.",
+      "file": "c019.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 20,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c020.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 21,
+      "text": "Porta con te un po' di questa sensazione.",
+      "file": "c021.ogg",
+      "durationSec": 4.368
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 104,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Siediti comodamente. Rilassa il viso.",
+      "file": "c000.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 1,
+      "text": "Metti una mano sul cuore se ti aiuta.",
+      "file": "c001.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 2,
+      "text": "Offriremo semplici frasi di gentilezza.",
+      "file": "c002.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 3,
+      "text": "Prima verso te stesso.",
+      "file": "c003.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 4,
+      "text": "Ripeti silenziosamente con me, o ascolta semplicemente.",
+      "file": "c004.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 5,
+      "text": "Che io sia al sicuro.",
+      "file": "c005.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 6,
+      "text": "Che io stia bene.",
+      "file": "c006.ogg",
+      "durationSec": 2.28
+    },
+    {
+      "index": 7,
+      "text": "Che io sia sereno.",
+      "file": "c007.ogg",
+      "durationSec": 2.52
+    },
+    {
+      "index": 8,
+      "text": "Ripetilele di nuovo, lentamente.",
+      "file": "c008.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 9,
+      "text": "Che io sia al sicuro.",
+      "file": "c009.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 10,
+      "text": "Che io stia bene.",
+      "file": "c010.ogg",
+      "durationSec": 2.28
+    },
+    {
+      "index": 11,
+      "text": "Che io sia sereno.",
+      "file": "c011.ogg",
+      "durationSec": 2.52
+    },
+    {
+      "index": 12,
+      "text": "Se ti risulta difficile, va bene così. Resta con il desiderio stesso.",
+      "file": "c012.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 13,
+      "text": "Ora porta alla mente qualcuno a cui è facile voler bene.",
+      "file": "c013.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 14,
+      "text": "Un amico, un animale domestico, uno sconosciuto gentile.",
+      "file": "c014.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 15,
+      "text": "Immaginalo brevemente.",
+      "file": "c015.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 16,
+      "text": "Che tu sia al sicuro.",
+      "file": "c016.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 17,
+      "text": "Che tu stia bene.",
+      "file": "c017.ogg",
+      "durationSec": 2.184
+    },
+    {
+      "index": 18,
+      "text": "Che tu sia sereno.",
+      "file": "c018.ogg",
+      "durationSec": 2.424
+    },
+    {
+      "index": 19,
+      "text": "Ancora una volta.",
+      "file": "c019.ogg",
+      "durationSec": 2.472
+    },
+    {
+      "index": 20,
+      "text": "Che tu sia al sicuro.",
+      "file": "c020.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 21,
+      "text": "Che tu stia bene.",
+      "file": "c021.ogg",
+      "durationSec": 2.184
+    },
+    {
+      "index": 22,
+      "text": "Che tu sia in pace.",
+      "file": "c022.ogg",
+      "durationSec": 2.52
+    },
+    {
+      "index": 23,
+      "text": "Senti il calore che sorge. Oppure semplicemente riposa nelle parole.",
+      "file": "c023.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 24,
+      "text": "Ritorna al tuo respiro.",
+      "file": "c024.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 25,
+      "text": "Grazie a te stesso per aver praticato.",
+      "file": "c025.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 26,
+      "text": "Apri delicatamente gli occhi.",
+      "file": "c026.ogg",
+      "durationSec": 3.384
+    }
+  ]
+}

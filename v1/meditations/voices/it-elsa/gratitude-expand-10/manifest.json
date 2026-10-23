@@ -1,0 +1,238 @@
+{
+  "id": "gratitude-expand-10",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 154,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Prenditi il tempo per arrivare.",
+      "file": "c001.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 2,
+      "text": "Siediti o sdraiati con supporto.",
+      "file": "c002.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 3,
+      "text": "Chiudi gli occhi se ti sembra sicuro.",
+      "file": "c003.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 4,
+      "text": "Senti il contatto con il suolo.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Respiro lento in.",
+      "file": "c005.ogg",
+      "durationSec": 2.712
+    },
+    {
+      "index": 6,
+      "text": "Respiro lungo in uscita.",
+      "file": "c006.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 7,
+      "text": "[pausa:27]",
+      "file": "c007.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 8,
+      "text": "Ancora.",
+      "file": "c008.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 9,
+      "text": "[pausa:27]",
+      "file": "c009.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 10,
+      "text": "Lascia che le spalle si rilassino.",
+      "file": "c010.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 11,
+      "text": "Lascia che lo stomaco si ammorbidisca.",
+      "file": "c011.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 12,
+      "text": "[pausa:34]",
+      "file": "c012.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 13,
+      "text": "Comincia con un piccolo bene concreto.",
+      "file": "c013.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 14,
+      "text": "Tienilo. Ringrazialo.",
+      "file": "c014.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 15,
+      "text": "[pausa:40]",
+      "file": "c015.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 16,
+      "text": "Un secondo. Una persona, un luogo o un comfort.",
+      "file": "c016.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 17,
+      "text": "Grazie.",
+      "file": "c017.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 18,
+      "text": "[pausa:40]",
+      "file": "c018.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 19,
+      "text": "Un terzo. Qualcosa del tuo corpo che funziona oggi.",
+      "file": "c019.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 20,
+      "text": "Grazie.",
+      "file": "c020.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 21,
+      "text": "[pausa:40]",
+      "file": "c021.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 22,
+      "text": "Allarga il cuore verso le persone che ti hanno fatto del bene, anche solo brevemente.",
+      "file": "c022.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 23,
+      "text": "[pausa:54]",
+      "file": "c023.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 24,
+      "text": "Allarga il cuore verso il luogo in cui sei. Rifugio. Aria. Terra.",
+      "file": "c024.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 25,
+      "text": "[pausa:54]",
+      "file": "c025.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 26,
+      "text": "Se il ringraziamento ti sembra difficile, grazia l’impegno di essere qui.",
+      "file": "c026.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 27,
+      "text": "Contano già.",
+      "file": "c027.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 28,
+      "text": "[pausa:40]",
+      "file": "c028.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 29,
+      "text": "Riposa in qualsiasi calore sia emerso.",
+      "file": "c029.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 30,
+      "text": "Oppure riposa nell’intenzione stessa.",
+      "file": "c030.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 31,
+      "text": "[pausa:90]",
+      "file": "c031.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 32,
+      "text": "[pausa:40]",
+      "file": "c032.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 33,
+      "text": "Comincia a respirare più profondamente.",
+      "file": "c033.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 34,
+      "text": "Riconosci di nuovo la stanza.",
+      "file": "c034.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 35,
+      "text": "Muovi le dita delle mani e dei piedi.",
+      "file": "c035.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 36,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c036.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 37,
+      "text": "Muoviti lentamente verso ciò che segue.",
+      "file": "c037.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "id": "lake-wander-10",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 543,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Trova una posizione che non ti chieda nulla.",
+      "file": "c001.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 2,
+      "text": "Siediti o sdraiati, con il supporto che ti serve.",
+      "file": "c002.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 3,
+      "text": "Lascia che le mani riposino aperte o rilassate.",
+      "file": "c003.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 4,
+      "text": "Permetti agli occhi di chiudersi, o mantieni uno sguardo morbido.",
+      "file": "c004.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 5,
+      "text": "Senti i punti in cui il tuo corpo incontra il terreno.",
+      "file": "c005.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 6,
+      "text": "I talloni, i glutei, la nuca o la lunghezza della colonna vertebrale.",
+      "file": "c006.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 7,
+      "text": "Niente da sostenere in questo momento.",
+      "file": "c007.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 8,
+      "text": "Fai un respiro lento attraverso il naso.",
+      "file": "c008.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 9,
+      "text": "Senti la freschezza dell'aria che arriva.",
+      "file": "c009.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 10,
+      "text": "E espira un po' più a lungo.",
+      "file": "c010.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 11,
+      "text": "Senti il calore dell'espirazione che esce.",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "Ancora. Inspira dolcemente.",
+      "file": "c012.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 13,
+      "text": "Espirazione tranquilla.",
+      "file": "c013.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 14,
+      "text": "Lascia che le spalle si abbassino leggermente.",
+      "file": "c014.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 15,
+      "text": "Lascia che la mascella si rilassi.",
+      "file": "c015.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 16,
+      "text": "Lascia che l'addome sia morbido.",
+      "file": "c016.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 17,
+      "text": "Rimani con tre respiri tranquilli, così come sono.",
+      "file": "c017.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 18,
+      "text": "Inspira. Arriva.",
+      "file": "c018.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 19,
+      "text": "Espira. Rilassati.",
+      "file": "c019.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 20,
+      "text": "Se la mente divaga, notalo con gentilezza e torna a questo respiro.",
+      "file": "c020.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 21,
+      "text": "Immagina di svegliarti accanto a un vasto lago tranquillo.",
+      "file": "c021.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 22,
+      "text": "La luce del mattino giace dolcemente sull'acqua.",
+      "file": "c022.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 23,
+      "text": "L'aria fresca tocca le tue guance con una pulizia rinfrescante.",
+      "file": "c023.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 24,
+      "text": "Il primo sole riscalda la punta dei piedi.",
+      "file": "c024.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 25,
+      "text": "Inizi una passeggiata lenta lungo la riva.",
+      "file": "c025.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 26,
+      "text": "Sabbia e piccole pietre lisce si muovono dolcemente sotto i piedi.",
+      "file": "c026.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 27,
+      "text": "Ogni passo è una silenziosa conversazione con il terreno.",
+      "file": "c027.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 28,
+      "text": "Una brezza arriva dall'acqua — fresca, leggermente fredda.",
+      "file": "c028.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 29,
+      "text": "Solleva i capelli alle tempie.",
+      "file": "c029.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 30,
+      "text": "Odori di cedro, pietre bagnate e mattina aperta.",
+      "file": "c030.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 31,
+      "text": "Osserva un airone in piedi nelle acque basse, perfettamente immobile.",
+      "file": "c031.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 32,
+      "text": "Tu corrispondi a quella quiete per qualche respiro.",
+      "file": "c032.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 33,
+      "text": "Il calore si diffonde sulle spalle mentre il sole sale.",
+      "file": "c033.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 34,
+      "text": "Trova una grossa pietra illuminata dal sole e siediti.",
+      "file": "c034.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 35,
+      "text": "Percepisci il calore immagazzinato nella roccia che si diffonde nel tuo corpo.",
+      "file": "c035.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 36,
+      "text": "Senti l’aria più fresca muoversi sulle labbra con ogni inspirazione.",
+      "file": "c036.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 37,
+      "text": "La superficie del lago si increspa, poi torna a essere come vetro.",
+      "file": "c037.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 38,
+      "text": "La luce tremola là come una gioia silenziosa.",
+      "file": "c038.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 39,
+      "text": "Prosegui lungo una curva della riva fino a un piccolo golfo.",
+      "file": "c039.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 40,
+      "text": "I cani selvatici sussurrano. L’acqua ticchetta dolcemente contro il legno.",
+      "file": "c040.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 41,
+      "text": "Un vecchio molo si estende. Tu cammini fino all’estremità.",
+      "file": "c041.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 42,
+      "text": "Siediti con i piedi che penzolano sopra l’acqua fresca.",
+      "file": "c042.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 43,
+      "text": "Il sole sul retro. La brezza sui polpacci.",
+      "file": "c043.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 44,
+      "text": "Immergi un dito. Freddo dolce. Un sorriso che non devi mostrare.",
+      "file": "c044.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 45,
+      "text": "Distenditi sulle assi calde.",
+      "file": "c045.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 46,
+      "text": "Ascolta l’acqua sotto di te. Il cielo sopra di te.",
+      "file": "c046.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 47,
+      "text": "Il tuo respiro diventa quanto il lago.",
+      "file": "c047.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 48,
+      "text": "Inspirare freschezza. Espirare verso un blu infinito.",
+      "file": "c048.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 49,
+      "text": "Niente da risolvere. Solo questo calore, questa aria, questa pace.",
+      "file": "c049.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 50,
+      "text": "Percepisci il calore del molo lungo la tua colonna vertebrale.",
+      "file": "c050.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 51,
+      "text": "Senti un filo d’aria più fresca ogni volta che la brezza cambia direzione.",
+      "file": "c051.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 52,
+      "text": "Un damigella cucce l’aria e scompare.",
+      "file": "c052.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 53,
+      "text": "Rimani finché questa sensazione non si diffonde nei muscoli e nelle ossa.",
+      "file": "c053.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 54,
+      "text": "Se la mente elenca compiti, lasciali per ora sull’altra riva.",
+      "file": "c054.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 55,
+      "text": "Possono aspettare. Il lago non aspetta nulla.",
+      "file": "c055.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 56,
+      "text": "Una mano sulla pancia. Salire. Scendere.",
+      "file": "c056.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 57,
+      "text": "Calore sotto il palmo dell'altra mano sul legno.",
+      "file": "c057.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 58,
+      "text": "Riposa in questa doppia presa — corpo e luogo.",
+      "file": "c058.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 59,
+      "text": "Alzati e cammina un po' più lontano nella tua immaginazione.",
+      "file": "c059.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 60,
+      "text": "I ciottoli scricchiolano dolcemente. L'acqua si illumina vicino a un ramo caduto.",
+      "file": "c060.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 61,
+      "text": "Il sole trova la nuca con un calore amichevole.",
+      "file": "c061.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 62,
+      "text": "L'ombra di un salice rinfresca le palpebre per qualche passo.",
+      "file": "c062.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 63,
+      "text": "L'alternanza tra calore e freschezza diventa una preghiera in cammino.",
+      "file": "c063.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 64,
+      "text": "Non sono necessarie parole. Solo sensazione e respiro.",
+      "file": "c064.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 65,
+      "text": "Trova una zona di sabbia calda e siediti di fronte all'acqua aperta.",
+      "file": "c065.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 66,
+      "text": "Lascia che gli occhi si ammorbidiscano sulla linea dell'orizzonte.",
+      "file": "c066.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 67,
+      "text": "Inhala il profumo fresco del lago.",
+      "file": "c067.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 68,
+      "text": "Esala verso le colline lontane.",
+      "file": "c068.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 69,
+      "text": "Qualsiasi cosa tu abbia portato qui può riposare sulla riva accanto a te.",
+      "file": "c069.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 70,
+      "text": "Non ha bisogno di essere portata nell'acqua.",
+      "file": "c070.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 71,
+      "text": "Rimani finché i prossimi tre respiri non si sentono completi da soli.",
+      "file": "c071.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 72,
+      "text": "Ora lascia che la storia riposi, e rimani con la sensazione.",
+      "file": "c072.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 73,
+      "text": "Inhala la freschezza di questo posto.",
+      "file": "c073.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 74,
+      "text": "Esala nella sua calda quiete.",
+      "file": "c074.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 75,
+      "text": "Inhala.",
+      "file": "c075.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 76,
+      "text": "Esala.",
+      "file": "c076.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 77,
+      "text": "Ancora. Inhala dolcemente.",
+      "file": "c077.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 78,
+      "text": "Esala più a lungo.",
+      "file": "c078.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 79,
+      "text": "Senti il corpo sorretto dal suolo di questo mondo immaginario.",
+      "file": "c079.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 80,
+      "text": "Inhala.",
+      "file": "c080.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 81,
+      "text": "Esala.",
+      "file": "c081.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 82,
+      "text": "Se i pensieri vagano, torna al calore sulla pelle.",
+      "file": "c082.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 83,
+      "text": "Oppure all'aria fresca sul naso.",
+      "file": "c083.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 84,
+      "text": "Inhala.",
+      "file": "c084.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 85,
+      "text": "Esala.",
+      "file": "c085.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 86,
+      "text": "Inhala.",
+      "file": "c086.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 87,
+      "text": "Esala.",
+      "file": "c087.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 88,
+      "text": "Resta. Rilassati. Continua.",
+      "file": "c088.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 89,
+      "text": "Inhala.",
+      "file": "c089.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 90,
+      "text": "Esala.",
+      "file": "c090.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 91,
+      "text": "Un ultimo ciclo facile.",
+      "file": "c091.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 92,
+      "text": "Inhala.",
+      "file": "c092.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 93,
+      "text": "Esala.",
+      "file": "c093.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 94,
+      "text": "Rimani in questa sensazione per qualche respiro in più.",
+      "file": "c094.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 95,
+      "text": "Calore. Mollità. Sufficiente.",
+      "file": "c095.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 96,
+      "text": "Puoi tornare in questo posto ogni volta che ne hai bisogno.",
+      "file": "c096.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 97,
+      "text": "Vive nella tua attenzione, non solo nell'immaginazione.",
+      "file": "c097.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 98,
+      "text": "Inizia a approfondire il respiro.",
+      "file": "c098.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 99,
+      "text": "Rivivi la sensazione della stanza intorno a te.",
+      "file": "c099.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 100,
+      "text": "Muovi le dita. Rilassa le dita dei piedi.",
+      "file": "c100.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 101,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c101.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 102,
+      "text": "Fai un altro respiro facile.",
+      "file": "c102.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 103,
+      "text": "Porta questa calma in ciò che verrà dopo.",
+      "file": "c103.ogg",
+      "durationSec": 4.248
+    }
+  ]
+}

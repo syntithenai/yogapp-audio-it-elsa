@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 155,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto a una pratica per il sonno.",
+      "file": "c000.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 1,
+      "text": "Stai sdraiato. Fai della oscurità il tuo amico.",
+      "file": "c001.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 2,
+      "text": "Potresti addormentarti prima della fine. Questo è un successo.",
+      "file": "c002.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 3,
+      "text": "[pausa:22]",
+      "file": "c003.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 4,
+      "text": "Respiro lento in.",
+      "file": "c004.ogg",
+      "durationSec": 2.712
+    },
+    {
+      "index": 5,
+      "text": "Respirazione più lunga verso l'esterno.",
+      "file": "c005.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 6,
+      "text": "[pausa:22]",
+      "file": "c006.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 7,
+      "text": "Rilascia la fronte.",
+      "file": "c007.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 8,
+      "text": "[pausa:18]",
+      "file": "c008.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 9,
+      "text": "Rilascia gli occhi.",
+      "file": "c009.ogg",
+      "durationSec": 2.52
+    },
+    {
+      "index": 10,
+      "text": "[pausa:18]",
+      "file": "c010.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 11,
+      "text": "Rilascia mandibola e lingua.",
+      "file": "c011.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 12,
+      "text": "[pausa:22]",
+      "file": "c012.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 13,
+      "text": "Spalle che si fondono.",
+      "file": "c013.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 14,
+      "text": "[pausa:22]",
+      "file": "c014.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 15,
+      "text": "Braccia pesanti. Mani aperte.",
+      "file": "c015.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 16,
+      "text": "[pausa:22]",
+      "file": "c016.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 17,
+      "text": "Torace morbido. Addome morbido.",
+      "file": "c017.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 18,
+      "text": "[pausa:22]",
+      "file": "c018.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 19,
+      "text": "Anche i fianchi pesanti.",
+      "file": "c019.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 20,
+      "text": "[pausa:22]",
+      "file": "c020.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 21,
+      "text": "Gambe pesanti. Piedi pesanti.",
+      "file": "c021.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 22,
+      "text": "[pausa:27]",
+      "file": "c022.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 23,
+      "text": "Il corpo intero che si affonda nel letto.",
+      "file": "c023.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 24,
+      "text": "[pausa:36]",
+      "file": "c024.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 25,
+      "text": "Pensieri come traffico lontano.",
+      "file": "c025.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 26,
+      "text": "Non li segui.",
+      "file": "c026.ogg",
+      "durationSec": 2.112
+    },
+    {
+      "index": 27,
+      "text": "[pausa:45]",
+      "file": "c027.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 28,
+      "text": "Respirazione più tranquilla.",
+      "file": "c028.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 29,
+      "text": "[pausa:45]",
+      "file": "c029.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 30,
+      "text": "Più scuro. Più morbido. Più lento.",
+      "file": "c030.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 31,
+      "text": "[pausa:67]",
+      "file": "c031.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 32,
+      "text": "Niente da finire.",
+      "file": "c032.ogg",
+      "durationSec": 2.376
+    },
+    {
+      "index": 33,
+      "text": "[pausa:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 34,
+      "text": "Sicuro riposare.",
+      "file": "c034.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 35,
+      "text": "[pausa:89]",
+      "file": "c035.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 36,
+      "text": "Sicuro dormire.",
+      "file": "c036.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 37,
+      "text": "[pausa:112]",
+      "file": "c037.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 38,
+      "text": "Se sei ancora sveglio, continua a riposare nell'espirazione.",
+      "file": "c038.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 39,
+      "text": "[pausa:89]",
+      "file": "c039.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 40,
+      "text": "Buonanotte.",
+      "file": "c040.ogg",
+      "durationSec": 2.064
+    },
+    {
+      "index": 41,
+      "text": "[pausa:67]",
+      "file": "c041.ogg",
+      "durationSec": 3.984
+    }
+  ]
+}

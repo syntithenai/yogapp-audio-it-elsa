@@ -1,0 +1,238 @@
+{
+  "id": "evening-unload-10",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 148,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Prenditi il tempo per arrivare.",
+      "file": "c001.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 2,
+      "text": "Siediti o sdraiati con supporto.",
+      "file": "c002.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 3,
+      "text": "Chiudi gli occhi se ti sembra sicuro.",
+      "file": "c003.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 4,
+      "text": "Senti il contatto con il suolo.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Respiro lento dentro.",
+      "file": "c005.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 6,
+      "text": "Respiro lungo fuori.",
+      "file": "c006.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 7,
+      "text": "[pausa:26]",
+      "file": "c007.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 8,
+      "text": "Ancora.",
+      "file": "c008.ogg",
+      "durationSec": 1.872
+    },
+    {
+      "index": 9,
+      "text": "[pausa:26]",
+      "file": "c009.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 10,
+      "text": "Lascia che le spalle si abbassino.",
+      "file": "c010.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 11,
+      "text": "Lascia che la pancia si rilassi.",
+      "file": "c011.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 12,
+      "text": "[pausa:33]",
+      "file": "c012.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 13,
+      "text": "Lascia che la giornata sia finita per ora.",
+      "file": "c013.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 14,
+      "text": "Ciò che è accaduto, è accaduto.",
+      "file": "c014.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 15,
+      "text": "Ciò che rimane può aspettare fino al mattino.",
+      "file": "c015.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 16,
+      "text": "[pausa:33]",
+      "file": "c016.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 17,
+      "text": "Esalando, immagina di posare i compiti su uno scaffale.",
+      "file": "c017.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 18,
+      "text": "Uno per uno. Senza drammi. Basta posare.",
+      "file": "c018.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 19,
+      "text": "[pausa:53]",
+      "file": "c019.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 20,
+      "text": "Inhala per quattro. Esala per sei.",
+      "file": "c020.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 21,
+      "text": "[pausa:33]",
+      "file": "c021.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 22,
+      "text": "Rilassa il viso.",
+      "file": "c022.ogg",
+      "durationSec": 2.328
+    },
+    {
+      "index": 23,
+      "text": "Abbassa le spalle.",
+      "file": "c023.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 24,
+      "text": "Braccia pesanti. Gambe pesanti.",
+      "file": "c024.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 25,
+      "text": "[pausa:40]",
+      "file": "c025.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 26,
+      "text": "Se la mente ricomincia a elencare, annuisci, e torna allo scaffale.",
+      "file": "c026.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 27,
+      "text": "[pausa:53]",
+      "file": "c027.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 28,
+      "text": "Senti il materasso o la sedia che ti sostiene.",
+      "file": "c028.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 29,
+      "text": "[pausa:66]",
+      "file": "c029.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 30,
+      "text": "Respiro più silenzioso. Corpo più pesante.",
+      "file": "c030.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 31,
+      "text": "[pausa:90]",
+      "file": "c031.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 32,
+      "text": "[pausa:40]",
+      "file": "c032.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 33,
+      "text": "Inizia a approfondire il respiro.",
+      "file": "c033.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 34,
+      "text": "Rivai a sentire la stanza.",
+      "file": "c034.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 35,
+      "text": "Muovi le dita delle mani e dei piedi.",
+      "file": "c035.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 36,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c036.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 37,
+      "text": "Muoviti lentamente verso ciò che segue.",
+      "file": "c037.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

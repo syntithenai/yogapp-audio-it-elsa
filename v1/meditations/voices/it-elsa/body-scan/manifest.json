@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 124,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Scanseremo delicatamente il corpo.",
+      "file": "c000.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 1,
+      "text": "Risposa disteso o seduto con facilità.",
+      "file": "c001.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 2,
+      "text": "Chiudi gli occhi se ti senti a tuo agio.",
+      "file": "c002.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 3,
+      "text": "Comincia dalla corona della testa.",
+      "file": "c003.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 4,
+      "text": "Notare qualsiasi sensazione lì. Calore. Freddo. Nulla affatto.",
+      "file": "c004.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 5,
+      "text": "Nessun bisogno di cambiarla. Solo notare.",
+      "file": "c005.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 6,
+      "text": "Muoviti delicatamente verso la fronte e gli occhi.",
+      "file": "c006.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 7,
+      "text": "Lascia che i piccoli muscoli intorno agli occhi si rilassino.",
+      "file": "c007.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 8,
+      "text": "Sentire la mascella. Rilassa se puoi.",
+      "file": "c008.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 9,
+      "text": "La lingua riposa leggermente.",
+      "file": "c009.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 10,
+      "text": "Spalle. Sono sollevate? Lascia che si abbassino un po'.",
+      "file": "c010.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 11,
+      "text": "Braccia pesanti. Mani aperte o morbide.",
+      "file": "c011.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 12,
+      "text": "Petto che sale e scende con il respiro.",
+      "file": "c012.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 13,
+      "text": "Addome morbido. Nessuna forzatura.",
+      "file": "c013.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 14,
+      "text": "Anche i bacini riposano.",
+      "file": "c014.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 15,
+      "text": "Gambe. Ginocchia. Gambe inferiori.",
+      "file": "c015.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 16,
+      "text": "Piedi. Sole delle suole a contatto con il pavimento o la stuoia.",
+      "file": "c016.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 17,
+      "text": "Ora sentire tutto il corpo come un campo di coscienza.",
+      "file": "c017.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 18,
+      "text": "Il respiro che lo attraversa.",
+      "file": "c018.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 19,
+      "text": "Se appare uno spazio teso, invia un'espirazione gentile lì.",
+      "file": "c019.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 20,
+      "text": "Rimani per tre respiri tranquilli.",
+      "file": "c020.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 21,
+      "text": "Quando sei pronto, muovi le dita delle mani e dei piedi.",
+      "file": "c021.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 22,
+      "text": "Apri gli occhi. Ritorna dolcemente.",
+      "file": "c022.ogg",
+      "durationSec": 4.848
+    }
+  ]
+}

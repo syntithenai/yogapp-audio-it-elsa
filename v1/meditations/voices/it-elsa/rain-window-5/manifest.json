@@ -1,0 +1,166 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 110,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Trova una posizione comoda, o sdraiati se ti sembra meglio.",
+      "file": "c001.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 2,
+      "text": "Lascia riposare le mani.",
+      "file": "c002.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 3,
+      "text": "Ammorbidisci gli occhi, o chiudili.",
+      "file": "c003.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 4,
+      "text": "Fai un respiro lento dentro.",
+      "file": "c004.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 5,
+      "text": "E un respiro più lungo fuori.",
+      "file": "c005.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 6,
+      "text": "Immagina di sederti vicino a una finestra in una tranquilla giornata di pioggia.",
+      "file": "c006.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 7,
+      "text": "Il vetro è freddo. Il mondo è morbido fuori.",
+      "file": "c007.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 8,
+      "text": "[pausa:30]",
+      "file": "c008.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 9,
+      "text": "Senti la pioggia senza bisogno di una storia.",
+      "file": "c009.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 10,
+      "text": "Piccoli colpi. Cadute occasionali più forti.",
+      "file": "c010.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 11,
+      "text": "[pausa:36]",
+      "file": "c011.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 12,
+      "text": "Senti l'aria umida e pulita.",
+      "file": "c012.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 13,
+      "text": "Vedi la luce grigia, dolce e tranquilla.",
+      "file": "c013.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 14,
+      "text": "[pausa:30]",
+      "file": "c014.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 15,
+      "text": "Non c'è nessun posto dove andare sotto la pioggia.",
+      "file": "c015.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 16,
+      "text": "Permesso di fare una pausa.",
+      "file": "c016.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 17,
+      "text": "[pausa:36]",
+      "file": "c017.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 18,
+      "text": "Respira con il ritmo dell'acqua sul vetro.",
+      "file": "c018.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 19,
+      "text": "[pausa:45]",
+      "file": "c019.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 20,
+      "text": "Lascia che il sistema nervoso prenda il segnale: rilassati.",
+      "file": "c020.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 21,
+      "text": "[pausa:36]",
+      "file": "c021.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 22,
+      "text": "Fai un altro respiro facile.",
+      "file": "c022.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 23,
+      "text": "Muovi le dita.",
+      "file": "c023.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 24,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c024.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 25,
+      "text": "Porta con te un po' di questo.",
+      "file": "c025.ogg",
+      "durationSec": 3.24
+    }
+  ]
+}

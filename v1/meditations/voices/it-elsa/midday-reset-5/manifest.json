@@ -1,0 +1,190 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 112,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Trova una posizione comoda, o sdraiati se ti sembra meglio.",
+      "file": "c001.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 2,
+      "text": "Lascia riposare le mani.",
+      "file": "c002.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 3,
+      "text": "Rilassa gli occhi, o chiudili.",
+      "file": "c003.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 4,
+      "text": "Fai un respiro lento e profondo.",
+      "file": "c004.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 5,
+      "text": "E un respiro più lungo in uscita.",
+      "file": "c005.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 6,
+      "text": "Lascia che la mattinata finisca qui, anche se la giornata continua.",
+      "file": "c006.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 7,
+      "text": "Rilassa le spalle.",
+      "file": "c007.ogg",
+      "durationSec": 2.712
+    },
+    {
+      "index": 8,
+      "text": "Rilassa la mascella.",
+      "file": "c008.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 9,
+      "text": "[pausa:30]",
+      "file": "c009.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 10,
+      "text": "Inhala dal naso.",
+      "file": "c010.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 11,
+      "text": "Esala dalla bocca, come se stessi appannando un vetro.",
+      "file": "c011.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 12,
+      "text": "Ancora una volta.",
+      "file": "c012.ogg",
+      "durationSec": 2.472
+    },
+    {
+      "index": 13,
+      "text": "[pausa:30]",
+      "file": "c013.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 14,
+      "text": "Immagina di posare ciò che stavi portando.",
+      "file": "c014.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 15,
+      "text": "Può aspettare sul tavolo accanto a te.",
+      "file": "c015.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 16,
+      "text": "[pausa:37]",
+      "file": "c016.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 17,
+      "text": "Senti la colonna vertebrale dritta.",
+      "file": "c017.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 18,
+      "text": "Senti l'addome morbido.",
+      "file": "c018.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 19,
+      "text": "[pausa:30]",
+      "file": "c019.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 20,
+      "text": "Chiediti sottovoce: cosa conta nell'ora successiva?",
+      "file": "c020.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 21,
+      "text": "Un solo passo chiaro è sufficiente.",
+      "file": "c021.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 22,
+      "text": "[pausa:44]",
+      "file": "c022.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 23,
+      "text": "Inhala quella semplicità.",
+      "file": "c023.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 24,
+      "text": "Esala lo sforzo.",
+      "file": "c024.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 25,
+      "text": "[pausa:37]",
+      "file": "c025.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 26,
+      "text": "Fai un altro respiro facile.",
+      "file": "c026.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 27,
+      "text": "Muovi le dita.",
+      "file": "c027.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 28,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c028.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 29,
+      "text": "Porta con te un po' di questo.",
+      "file": "c029.ogg",
+      "durationSec": 3.24
+    }
+  ]
+}

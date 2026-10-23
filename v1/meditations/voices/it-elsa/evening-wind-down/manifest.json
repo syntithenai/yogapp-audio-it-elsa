@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 112,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Questa pratica è per la fine della giornata.",
+      "file": "c000.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 1,
+      "text": "Abbassa le luci se puoi.",
+      "file": "c001.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 2,
+      "text": "Stai sdraiato o in posizione reclinata con supporto.",
+      "file": "c002.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 3,
+      "text": "Lascia che la giornata sia finita, anche se la mente elenca ancora compiti.",
+      "file": "c003.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 4,
+      "text": "Puoi metterli da parte per ora.",
+      "file": "c004.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 5,
+      "text": "Inhala dolcemente per un conto di quattro.",
+      "file": "c005.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 6,
+      "text": "Esala per un conto di sei.",
+      "file": "c006.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 7,
+      "text": "Ancora. Quattro dentro. Sei fuori.",
+      "file": "c007.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 8,
+      "text": "Esalazioni più lunghe dicono al corpo che è sicuro riposare.",
+      "file": "c008.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 9,
+      "text": "Esamina la tensione rimasta nel viso.",
+      "file": "c009.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 10,
+      "text": "Rilassa la fronte. Rilassa la mascella.",
+      "file": "c010.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 11,
+      "text": "Abbassa le spalle lontano dalle orecchie.",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "Immagina che la giornata si posa come polvere dopo una brezza.",
+      "file": "c012.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 13,
+      "text": "Ciò che è accaduto, è accaduto.",
+      "file": "c013.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 14,
+      "text": "Ciò che rimane può aspettare fino al mattino.",
+      "file": "c014.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 15,
+      "text": "Senti il materasso o il pavimento che ti sostiene.",
+      "file": "c015.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 16,
+      "text": "Respira più piano. Il corpo più pesante.",
+      "file": "c016.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 17,
+      "text": "Se arriva il sonno, lascialo venire.",
+      "file": "c017.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 18,
+      "text": "Se no, riposa comunque in questa morbidezza.",
+      "file": "c018.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 19,
+      "text": "Tre respiri lenti in più.",
+      "file": "c019.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 20,
+      "text": "In. Fuori.",
+      "file": "c020.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 21,
+      "text": "In. Fuori.",
+      "file": "c021.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 22,
+      "text": "In. Fuori.",
+      "file": "c022.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 23,
+      "text": "Buonanotte al giorno. Pace alla notte.",
+      "file": "c023.ogg",
+      "durationSec": 4.992
+    }
+  ]
+}

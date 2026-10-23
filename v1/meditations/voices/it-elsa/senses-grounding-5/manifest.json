@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "it-elsa",
+  "edgeVoice": "it-IT-ElsaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 115,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 1.992
+    },
+    {
+      "index": 1,
+      "text": "Se ti senti disperso o attivato, questa pratica può aiutarti.",
+      "file": "c001.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 2,
+      "text": "Mantieni gli occhi aperti per ora, se ti senti più sicuro così.",
+      "file": "c002.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 3,
+      "text": "Poniti entrambi i piedi a contatto con il pavimento.",
+      "file": "c003.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 4,
+      "text": "[pausa:17]",
+      "file": "c004.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 5,
+      "text": "Nomina cinque cose che puoi vedere.",
+      "file": "c005.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 6,
+      "text": "Con calma. Prenditi tutto il tempo necessario.",
+      "file": "c006.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 7,
+      "text": "[pausa:45]",
+      "file": "c007.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 8,
+      "text": "Nomina quattro cose che puoi sentire o toccare.",
+      "file": "c008.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 9,
+      "text": "Abbigliamento. Sedia. Aria sulla pelle. Piedi sul pavimento.",
+      "file": "c009.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 10,
+      "text": "[pausa:39]",
+      "file": "c010.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 11,
+      "text": "Nomina tre suoni.",
+      "file": "c011.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 12,
+      "text": "Prossimi o lontani. Dolci o chiari.",
+      "file": "c012.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 13,
+      "text": "[pausa:39]",
+      "file": "c013.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 14,
+      "text": "Nomina due odori, oppure semplicemente nota la qualità dell’aria.",
+      "file": "c014.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 15,
+      "text": "[pausa:28]",
+      "file": "c015.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 16,
+      "text": "Nomina un sapore, o il senso che provi in bocca.",
+      "file": "c016.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 17,
+      "text": "[pausa:23]",
+      "file": "c017.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 18,
+      "text": "Sei qui. Nel tuo corpo. In questa stanza.",
+      "file": "c018.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 19,
+      "text": "Inspira per quattro.",
+      "file": "c019.ogg",
+      "durationSec": 2.28
+    },
+    {
+      "index": 20,
+      "text": "Esala per sei.",
+      "file": "c020.ogg",
+      "durationSec": 0.84
+    },
+    {
+      "index": 21,
+      "text": "[pausa:23]",
+      "file": "c021.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 22,
+      "text": "Fai un’altra respirazione facile.",
+      "file": "c022.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 23,
+      "text": "Muovi le dita.",
+      "file": "c023.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 24,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c024.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 25,
+      "text": "Porta con te un po’ di questa sensazione.",
+      "file": "c025.ogg",
+      "durationSec": 4.368
+    }
+  ]
+}
